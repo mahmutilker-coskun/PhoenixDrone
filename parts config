@@ -1,0 +1,48 @@
+mt3608 (voltaj regulator)
+- 2/24vin to max 28vout, ayarlanabilir , 2A out, 5 
+nrf24l01 
+- 3/3.6vin , max 120mA, 2.5ghz/2.5ghz , 6 kanal , 12/15 gr
+esp32 s3 n16 r8
+- 5v , rom 384kb , sram 512kb , rtc 16kb ,psram 16mb, wifi bluetooth ,36 pin , 40Mhz, Dual core 32bit ,9/12gr
+lipo  1050mah  3.7v 1s 40c batarya
+- 1050mah  ,3.7v, 1s ,40c, X5C 2.0 (JST DS Losi) Soket, 73x35x9mm , 28,1gr
+6 cm çap pervane  
+- pervane çalışmazsa yeni pervane alınacak 
+3.7 micro motor 8520 çekirdeksiz  
+- 3.7v 8.5mm ye 20 mm motor
+transistör  ?
+imu  mpu6050 
+- 3.3/ 5v   6gr 
+gps
+-
+
+melih- kontrolcü için
+arduino nano 
+nrf24l01
+2 joystick 
+2/1 potansiyometre 
+buton/sayı ?
+harici batarya 
+bakır devre kartı 
+
+batarya
+vout 3.7
+
+3.3/3.7  vin
+nrf24l0 -  İmu  - 4 motor 
+
+5v  vin
+Esp 32  gps   
+
+3.7v 
+batarya - mosfet - motor
+batarya - nrf24l01
+batarya - imu 
+5v 
+batarya - mt3608 - esp32
+batarya - mt3608 - gps 
+
+motor controller circuit diagram ?
+esp32 - mosfet - motor
+
+
