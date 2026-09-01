@@ -10,6 +10,16 @@ Melih
   lehim aletleri alınmalı
 
 
+  sol analog
+    forward-backward y axis
+    yaw x axis
+
+  sağ analog
+    pitch y axis
+    roll x axis
+
+  pitch-roll and yaw lock toggles
+
 issue-2 
   Yusuf
 
