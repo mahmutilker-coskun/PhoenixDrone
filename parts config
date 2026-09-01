@@ -45,4 +45,15 @@ batarya - mt3608 - gps
 motor controller circuit diagram ?
 esp32 - mosfet - motor
 
-
+CONTROLLER PARTS CONFİG 
+ Arduino nano 
+ 2 joystick 
+  yaw/throttle
+  pitch/roll
+ at least 7 buttons 
+  start/stop 2 
+  lock/reset 5
+ 7 leds for buttons 
+ nrf24l0 
+ battery or cable power 
+ copper board for structure
