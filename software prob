@@ -1,0 +1,19 @@
+Controller Software 
+
+Arduino : ArduinoİDE
+  inputs:
+    2 Joystick = 4 
+    7 button 
+  outputs:
+    nrf24l01
+    7 led 
+
+Flight Controller Software
+Esp32 : Espresiff İDE
+  inputs: 
+  nrf24l01 
+  gps 
+  imu 
+  Outputs:
+  4 motor 
+  nrf24l01 feedback 
